@@ -1,0 +1,66 @@
+{
+	"animals":[
+		{
+			"name": "Cow",
+			"weight": "",
+			"habitat": "",
+			"endangered-status": "",
+			"diet": "",
+			"predetors": "",
+			"taste": 
+
+		},
+		{
+			"name": "Elephant",
+			"weight": "",
+			"habitat": "",
+			"endangered-status": "",
+			"diet": "",
+			"predetors": "",
+			"taste": 
+
+		},
+		{
+			"name": "Gray Wolf",
+			"weight": "",
+			"habitat": "",
+			"endangered-status": "",
+			"diet": "",
+			"predetors": "",
+			"taste": 
+
+		},
+		{
+			"name": "Squirel",
+			"weight": 8"KG",
+			"habitat": "Americas, Africa, parts of Asia and Europe",
+			"endangered-status": "Not Endagered",
+			"diet": "fruit, nuts, seeds,insects",
+			"predetors": "Pretty much everyone from the evil beast Hillary-I Delete Emails-Clinton to the wee underdog President-Elect Donald J Trump",
+			"taste": 5
+
+		},
+		{
+			"name": "Amur Leapard",
+			"weight": 48"KG",
+			"habitat": "Russia, China, Korean Peninsula",
+			"endangered-status": "Extremely Endagered (Most Endagered Large Cat)",
+			"population": 57,
+			"diet": "deer, moose, wild pig, young black bears",
+			"predetors": "humans(poaching), Amur tigers",
+			"taste": 3
+
+		},
+		{
+			"name": "Amur/Siberian Tiger",
+			"weight": 380"KG",
+			"habitat": "Russa",
+			"endangered-status": "Endagered",
+			"population": 450,
+			"diet": "deer, goral, boar, Asian black bears, Ussuri brown bears",
+			"predetors": "Humans(No natural predetors)",
+			"taste": 2
+
+		},
+	]
+}

@@ -1,0 +1,125 @@
+var arsenal={
+	"team": "Arsenal Starting XI",
+	"starting": [
+		{
+			"name": "Cech",
+			"number": 1,
+			"title": "Goalkeeper"
+		},
+		{
+			"name": "Hector Bellerin",
+			"number": 24,
+			"title": "Left-Back"
+		},
+		{
+			"name": "Laurent Koscielny",
+			"number": 6,
+			"title": "Full-Back"
+		},
+		{
+			"name": "Shkodran Mustafi",
+			"number": 20,
+			"title": "Full-Back"
+		},
+		{
+			"name": "Nacho Monreal",
+			"number": 18,
+			"title": "Righ-Back"
+		},
+		{
+			"name": "Santi Cazorla",
+			"number": 19,
+			"title": "Central-Midfielder"
+		},
+		{
+			"name": "Granit Xhaka",
+			"number": 29,
+			"title": "Defensive-Midfielder"
+		},
+		{
+			"name": "Mesut Ozil",
+			"number": 11,
+			"title": "Central-Attacking-Midfielder"
+		},
+		{
+			"name": "Alex Iwobi",
+			"number": 17,
+			"title": "Left-Wing"
+		},
+		{
+			"name": "Theo Walcott",
+			"number": 14,
+			"title": "Right-Wing"
+		},
+		{
+			"name": "Alexis Sanchez",
+			"number": 7,
+			"title": "Striker"
+		},
+	],
+	"Bench":[
+		{
+			"name": "David Ospina",
+			"number": 13,
+			"title": "Goalkeeper"
+		},
+		{
+			"name": "Kieran Gibbs",
+			"number": 3,
+			"title": "Left-Back"
+		},
+		{
+			"name": "Rod Holding",
+			"number": 16,
+			"title": "Full-Back"
+		},
+		{
+			"name": "Aaron Ramsey",
+			"number": 8,
+			"title": "Attacking-Midfielder"
+		},
+		{
+			"name": "Mohamed Elneny",
+			"number": 35,
+			"title": "Defensive-Midfielder"
+		},
+		{
+			"name": "Alex (OX) Oxlade-chamberlain",
+			"number": 15,
+			"title": "Attacking-Midfielder/Right-Wing"
+		},
+		{
+			"name": "Olivier Giroud",
+			"number": 12,
+			"title": "Striker"
+		}	
+	],
+	"Loanees":[
+		{
+			"name": "Calum Chambers",
+			"number": 21,
+			"title": "Full-Back (Middlesbrough)"
+		},
+		{
+			"name": "Wojciech Szczesny",
+			"number": 1,
+			"title": "Goalkeeper (Roma)"
+		},
+		{
+			"name": "Jack Wilshere",
+			"number": 10,
+			"title": "Central-Midfielder (Bournemouth)"
+		},
+		{
+			"name": "Joel Campbell",
+			"number": 28,
+			"title": "Striker (Sporting Lisbon CP)"
+		},
+		{
+			"name": "Takuma Asano",
+			"number": 0,
+			"title": "Striker (VfB Stuttgart)"
+		}
+
+	]
+	}
